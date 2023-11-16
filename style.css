@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 7% 5%;
+  background-color: green;
+}
+
+.product-image {
+  width: 350px;
+}
