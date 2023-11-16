@@ -1,3 +1,62 @@
+<!-- <div id="top"></div> -->
+
+<div align="center">
+
+  <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
+
+  <h2 align="center">Product Review Card Solution</h2>
+  <p align="center">
+    <a href="https://www.frontendmentor.io/solutions/result-summary-component-Yk6Ic5eKsh">     
+      <strong>Frontend Mentor Challenge</strong>
+    </a>
+    <br />
+    <br />
+    <!-- Navigation Links -->
+    <a 
+      href="https://benjaminsemah.github.io/results-summary-component/"
+      target="_blank"
+    >
+      View Demo
+    </a>
+    ||
+    <a 
+      href="https://github.com/BenjaminSemah/results-summary-component/issues" 
+      target="_blank"
+    >
+      Report Bug
+    </a>
+    ||
+    <a 
+      href="https://github.com/BenjaminSemah/results-summary-component/issues" 
+      target="_blank"
+    >
+      Request Feature
+    </a>
+  </p>
+</div>
+
+<!-- Bagdes -->
+<div align="center">
+
+  <!-- Profile -->
+  <a href="https://www.frontendmentor.io/profile/BenjaminSemah">
+    <img 
+      src="https://img.shields.io/badge/Profile-Benjamin%20Semah-07043B?style=for-the-badge&logo=frontendmentor" 
+      alt="Benjamin Semah's Frontend Mentor Profile"
+    >
+  </a>
+  <!-- Status -->
+    <a 
+      href="#"
+    >
+      <img 
+        src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+  </a>
+</div>
+
+
+
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
